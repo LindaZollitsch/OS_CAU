@@ -16,7 +16,7 @@ comment:  Open Science, Open Data, Open Access
 tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access, Open Data
 -->
 
-# Open Science for Researchers
+# Einführung in Open Science
 
 -----
 
@@ -24,6 +24,12 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 (Illustration: Cleo Michelsen)
 
 -----
+
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/OS_CAU/main/OS-for-researchers.md#1)
+>
 
 ## Introduction
 
@@ -121,7 +127,7 @@ You have 1 minute.
 **But why Open Science?**
 
 ![ECoC](/ecoc_2023.png)
-(ALEA (2023): The European Code of Conduct for Research Integrity)
+(ALLEA (2023): The European Code of Conduct for Research Integrity)
 
 ********************************************************************************
 
