@@ -43,39 +43,36 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
+## Was bedeutet Open Science?
+
+
 {{1-2}}
 ********************************************************************************
 > Aufgabe:
 >
 > Think about what you understand by Open Science. Write it down in a pad or on a piece of paper.
 >
-> You have 1 minute.
+> Sie haben 1 Minute Zeit.
 
 -----
 
 ********************************************************************************
 
-{{2}}
+{{2-4}}
 ********************************************************************************
 Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-
-
-## Definition von Open Science
-
-{{1-2}}
+{{3-4}}
 ********************************************************************************
-* **Was bedeutet Open Science?**
+![Bild](/) 
 
-* Wie kann ich offen in meiner Forschung sein?
-
-* Was ist der Vorteil von Open Science?
+(CC-BY 4.0, UNESCO)
 
 ********************************************************************************
 
-{{2-3}}
+{{4-6}}
 ********************************************************************************
 >"Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 >
@@ -95,7 +92,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{4-5}}
+{{5-6}}
 ********************************************************************************
 
 "A key element of open science is to claim for openness of digital research and teaching. This means that research results, research data, research methods and procedures as well as course and teaching content, software and tools are available free of charge and can be reused." 
@@ -105,19 +102,18 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{5-6}}
+## Warum Open Science?
+
+
+{{1-3}}
 ********************************************************************************
-
-**Warum Open Science?**
-
 ![ECoC](/ecoc_2023.png)
 (ALLEA (2023): The European Code of Conduct for Research Integrity)
 
 ********************************************************************************
 
-{{5-6}}
+{{2-3}}
 ********************************************************************************
-
 ![example](/ecoc_1.png)
 (ALEA (2023): The European Code of Conduct for Research Integrity, p. 7)
 
@@ -126,9 +122,8 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{6}}
+{{3}}
 ********************************************************************************
-
 >Aufgabe: 
 >
 >Prüfen Sie, welche der in den Definitionen genannten Aspekte Sie auch selbst aufgeschrieben haben. Haben Sie noch weitere Elemente gefunden, die zu Open Science gehören?
@@ -143,24 +138,13 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{1}}
 ********************************************************************************
-
-* Was bedeutet Open Science?
-
-* **Wie kann ich offen in meiner Forschung sein?**
-
-* Was ist der Vorteil von Open Science?
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
 "A persistent identifier (PI or PID) is a long-lasting reference to a document, file, web page, or other digital object. Most PIDs have a unique identifier which is linked to the current address of the metadata or content. Unlike URLs, PIDs are often provided by services that allow you to update the location of the object so that the identifierconsistently points to the right place without breaking."
 
 (https://guides.lib.uw.edu/research/PID#:~:text=A%20persistent%20identifier%20(PI%20or,of%20the%20metadata%20or%20content.)
 
 ********************************************************************************
 
-{{3}}
+{{2}}
 ********************************************************************************
 >"A persistent identifier (PID) is a long-lasting reference to a digital resource and provides the information required to reliably identify, verify and locate your research data eliminating many misunderstandings. A PID may also be connected to a set of metadata which describes a digital resource." 
 >
@@ -168,7 +152,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{4}}
+{{3}}
 ********************************************************************************
 Digitale Ressourcen können zum Beispiel sein:
 
