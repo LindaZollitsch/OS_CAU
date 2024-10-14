@@ -43,27 +43,25 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
-## Fragen, die das Thema Open Science berühren:
+{{1-2}}
+********************************************************************************
+> Aufgabe:
+>
+> Think about what you understand by Open Science. Write it down in a pad or on a piece of paper.
+>
+> You have 1 minute.
 
 -----
 
-* In what format should I save videos for long-term archiving?
+********************************************************************************
 
-* Where can I store my sensitive data?
+{{2}}
+********************************************************************************
+Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
-* How do I make my data anonymous?
+********************************************************************************
 
-* Am I allowed to put data from Facebook, I use in a study, in a repository open access?
 
-* What happens to my data when I leave the university?
-
-* How can I share large amounts of data with others during the project?
-
-* How can retrieve my data?
-
-* Part of the data collected was not used in the publication(s). Do I still have to share this data even if it’s not connected to any publication?
-
------
 
 ## Definition von Open Science
 
@@ -77,22 +75,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 ********************************************************************************
 
-
------
-
 {{2-3}}
-********************************************************************************
-Aufgabe:
-
-Think about what you understand by Open Science. Write it down in a pad or on a piece of paper.
-
-You have 1 minute.
-
------
-
-********************************************************************************
-
-{{3-5}}
 ********************************************************************************
 >"Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 >
@@ -186,7 +169,22 @@ You have 1 minute.
 ********************************************************************************
 
 
-### Digital Object Identifier (DOI)
+Digitale Ressourcen können zum Beispiel sein:
+
+* Unterlagen
+* Dateien
+* Digitale Objekte
+
+![PID](/PID.png) 
+
+
+
+### Digital Object Identifier (DOI®)
+
+-----
+![DOI](/)
+(Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
+ shortDOI® are trademarks of the DOI Foundation.)
 
 -----
 
@@ -376,5 +374,36 @@ Leitfragen für die Diskussion
 
 * Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
 
+
+-----
+
+
+
+
+
+
+
+
+
+
+## Fragen, die das Thema Open Science berühren:
+
+-----
+
+* In what format should I save videos for long-term archiving?
+
+* Where can I store my sensitive data?
+
+* How do I make my data anonymous?
+
+* Am I allowed to put data from Facebook, I use in a study, in a repository open access?
+
+* What happens to my data when I leave the university?
+
+* How can I share large amounts of data with others during the project?
+
+* How can retrieve my data?
+
+* Part of the data collected was not used in the publication(s). Do I still have to share this data even if it’s not connected to any publication?
 
 -----
