@@ -168,7 +168,8 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-
+{{4}}
+********************************************************************************
 Digitale Ressourcen können zum Beispiel sein:
 
 * Unterlagen
@@ -177,18 +178,18 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ![PID](/PID.png) 
 
-
+********************************************************************************
 
 ### Digital Object Identifier (DOI®)
 
 -----
-![DOI](/)
+![DOI](/DOI_logo.svg.png)
 (Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
  shortDOI® are trademarks of the DOI Foundation.)
 
 -----
 
-{{1}}
+{{1-3}}
 ********************************************************************************
 >"A DOI is a digital identifier of an object, any object — physical, digital, or abstract. DOIs solve a common problem: keeping track of things. Things can be matter, material, content, or activities.
 >
@@ -202,17 +203,7 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
-{{2}}
-********************************************************************************
-"A Digital Object Identifier (DOI) is a unique identifier that you can use to enable your data or datasets to be cited just like bibliographic references or other scholarly resources. A DOI will help make research outputs, such as datasets, more findable and citable. DOIs allow for your datasets to be tracked through metrics systems, such as Almetric, which you can use to measure the use and impact of your data." 
-
-(https://libguides.library.usyd.edu.au/datapublication/step6)
-
------
-
-********************************************************************************
-
-{{3}}
+{{2-3}}
 ********************************************************************************
 >"DOIs are persistent identifiers to uniquely and permanently identify physical, digital and abstract objects following international standards (ISO 26324)." 
 >
@@ -222,13 +213,23 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
+{{3-4}}
+********************************************************************************
+![DOI](/)
+
+********************************************************************************
+
+{{4-5}}
+********************************************************************************
+![DOI](/)
+
+********************************************************************************
+
 ### ORCID
 
 -----
 
------
-
-{{1-2}}
+{{1-3}}
 ********************************************************************************
 * Haben Sie bereits von ORCID gehört?
 
@@ -236,17 +237,34 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
-{{2}}
+{{2-3}}
 ********************************************************************************
-**Whas is eine ORCID?**
+![ORCID](/)
 
-* 16-stellige Nummer und der zugehörige Datensatz, der automatische Verknüpfungen zur Forschung speichert und die Forschung mit Ihnen verknüpft
+(Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
+ https://doi.org/10.23640/07243.5008697.v4. Under CC0 License)
 
-* Macht Forschende eindeutig und verbindet Personen mit ihren Forschungsaktivitäten
+********************************************************************************
 
-* Dient als Informationsplattform, die es Ihren Autor:innen und Gutachter:innen ermöglicht, sich zuverlässig mit Ihren Beiträgen zu verbinden
 
-* Entdecken Sie Informationen über Personen, mit denen Sie zusammenarbeiten
+{{3}}
+********************************************************************************
+**Was ist eine ORCID?**
+
+
+* eine offene Forscher- und Mitwirkenden-ID
+* eine eindeutige, dauerhafte Kennung, die Forschenden kostenlos zur Verfügung steht
+* offen, transparent, nicht proprietär
+
+------
+
+> * 16-stellige Nummer und der zugehörige Datensatz, der automatische Verknüpfungen zur Forschung speichert und die Forschung mit Ihnen verknüpft
+>
+> * Macht Forschende eindeutig und verbindet Personen mit ihren Forschungsaktivitäten
+>
+> * Dient als Informationsplattform, die es Ihren Autor:innen und Gutachter:innen ermöglicht, sich zuverlässig mit Ihren Beiträgen zu verbinden
+>
+> * Entdecken Sie Informationen über Personen, mit denen Sie zusammenarbeiten
 
 
 (info.orcid.org, letzter Zugriff: 17.08.2023)
@@ -255,11 +273,18 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
+{{4}}
+********************************************************************************
+**Wie sieht ein ORCID-Eintrag aus?**
+
+
+
+
 ## Vorteile von Persistent Identifiers
 
 -----
 
-* hilf, Objekte oder Personen leichter zu identifizieren
+* hilft, Objekte oder Personen leichter zu identifizieren
 
 * maschinenlesbar
 
@@ -277,12 +302,10 @@ Digitale Ressourcen können zum Beispiel sein:
 
 -----
 
-Denken Sie an das folgende:
+Denken Sie an folgendes:
 
 -----
 
-{{1}}
-********************************************************************************
 
 * Sie möchten Ihre eigenen Daten einige Jahre später wieder verwenden
 
@@ -292,30 +315,9 @@ Denken Sie an das folgende:
 
 * Sie möchten einen Artikel / Daten veröffentlichen und sicherstellen, dass Sie zitiert werden
 
+------
 
-********************************************************************************
-
-{{2}}
-********************************************************************************
-**Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.**
-
->* Open Access beschreibt den Zugang zu (meistens) textbasierten Werken.
->
->* Open Data bezieht sich (meistens) auf Forschungsdaten, Mediendaten und andere. 
->
->* Open Peer Review regelt die Begutachtung von Artikeln vor / zur Veröffentlichung.
->
->* Open Source und Open Hardware befassen sich mit der Veröffentlichung von Software und Hardware.
->
->* Citizen Science bindet Bürger:innen aktiv in die Forschung ein.
-
-**All diese Aspekte können als Teil von Open Science gesehen werden**
-
-
-********************************************************************************
-
-
-## Vorteile und Risiken von Open Science
+## Vorteile und Hinderungsgründe von Open Science
 
 -----
 
@@ -335,7 +337,13 @@ Denken Sie an das folgende:
 
 {{2}}
 ********************************************************************************
-**Risiken**
+**Hinderungsgründe**
+
+* zeitaufwändige Verfahren
+
+* Probleme, das richtige Repositorium zu finden
+
+* "Sorgen vor dem Datenklau"
 
 -----
 
@@ -356,21 +364,36 @@ UB: Open Acces
 RZ: Open Data (Torge: Open Data Landesregierung)
 
 
+### Open Science Coffee Lectures
+
+| Wann | Was | Wer |
+| -------- | :------: |:------: |
+| 2024-11-21     |   Open Data SH & opendata@uni-kiel   | Dr. Jesper Zedlitz, Ove Sörensen, Thorge Petersen |
+| 2024-12-12     |   FAIR vs. Open Research Data   | Thilo Paul-Stüve |
+| 2025-01-16     |   Erfolg dank Open Science? Wege in eine offene Forschungspraxis   | Dr. Ronny Röwert |
+| 2025-02-20     |   Open Access an der CAU   | Dr. Kai Lohsträter |
+| 2025-03-20     |   Open Educational Ressources (OER)   | Leon Marks |
+| 2025-04-10     |   Reproduzierbare Forschung & Open Science   | Dr. Guido Scherp |
+
+
+
 ## Discussion
 
 -----
 {{1}}
 ********************************************************************************
 
-Wo sind sie schon mit OS in Kontakt gekommen?
+Wo sind Sie schon mit Open Science in Kontakt gekommen?
+
+Was sind Ihre Erfahrungen mit Open Science?
 
 ********************************************************************************
 {{2}}
 ********************************************************************************
 
-Leitfragen für die Diskussion
 
-* Welche Vorteile gibt es für mich als Wissenschafler:in, OS zu folgen?
+
+* Was sind die Vorteile von Open Cience für Sie als Wissenschaftler:innen?
 
 * Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
 
@@ -407,3 +430,25 @@ Leitfragen für die Diskussion
 * Part of the data collected was not used in the publication(s). Do I still have to share this data even if it’s not connected to any publication?
 
 -----
+
+
+
+
+{{2}}
+********************************************************************************
+**Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.**
+
+>* Open Access beschreibt den Zugang zu (meistens) textbasierten Werken.
+>
+>* Open Data bezieht sich (meistens) auf Forschungsdaten, Mediendaten und andere. 
+>
+>* Open Peer Review regelt die Begutachtung von Artikeln vor / zur Veröffentlichung.
+>
+>* Open Source und Open Hardware befassen sich mit der Veröffentlichung von Software und Hardware.
+>
+>* Citizen Science bindet Bürger:innen aktiv in die Forschung ein.
+
+**All diese Aspekte können als Teil von Open Science gesehen werden**
+
+
+********************************************************************************
