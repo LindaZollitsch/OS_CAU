@@ -199,13 +199,13 @@ Digitale Ressourcen können zum Beispiel sein:
 
 {{3-4}}
 ********************************************************************************
-![DOI](/)
+![DOI](/DOI_1.png)
 
 ********************************************************************************
 
 {{4-5}}
 ********************************************************************************
-![DOI](/)
+![DOI](/DOI_2.png)
 
 ********************************************************************************
 
@@ -223,7 +223,7 @@ Digitale Ressourcen können zum Beispiel sein:
 
 {{2-3}}
 ********************************************************************************
-![ORCID](/)
+![ORCID](/ORCID_logo.webp)
 
 (Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
  https://doi.org/10.23640/07243.5008697.v4. Under CC0 License)
@@ -290,7 +290,6 @@ Denken Sie an folgendes:
 
 -----
 
-
 * Sie möchten Ihre eigenen Daten einige Jahre später wieder verwenden
 
 * Sie möchten einen Artikel schreiben und jemanden zitieren /  die Daten von jemandem verwenden
@@ -309,11 +308,11 @@ Denken Sie an folgendes:
 ********************************************************************************
 **Vorteile**
 
-* provides transparency
+* sorgt für Transparenz
 
-* identifyable
+* identifizierbar
 
-* verifyable
+* überprüfbar
 
 -----
 
