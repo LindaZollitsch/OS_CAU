@@ -31,16 +31,6 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/OS_CAU/main/OS-for-researchers.md#1)
 >
 
-## Agenda
-
------
-
-* Was bedeutet Open Science?
-
-* Wie kann ich offen in meiner Forschung sein?
-
-* Was ist der Vorteil von Open Science?
-
 -----
 
 ## Was bedeutet Open Science?
@@ -50,7 +40,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 ********************************************************************************
 > Aufgabe:
 >
-> Think about what you understand by Open Science. Write it down in a pad or on a piece of paper.
+> Überlegen Sie, was Sie unter Open Science verstehen. Schreibe es in einen Block oder auf ein Blatt Papier.
 >
 > Sie haben 1 Minute Zeit.
 
@@ -66,7 +56,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{3-4}}
 ********************************************************************************
-![Bild](/) 
+![Bild](/UNESCO_OS.jpg) 
 
 (CC-BY 4.0, UNESCO)
 
@@ -261,7 +251,7 @@ Digitale Ressourcen können zum Beispiel sein:
 ********************************************************************************
 **Wie sieht ein ORCID-Eintrag aus?**
 
-
+![ORCID](/Orcid_record.png)
 
 
 ## Vorteile von Persistent Identifiers
@@ -334,17 +324,23 @@ Denken Sie an folgendes:
 
 ## OS@CAU
 
+{{1-2}}
+********************************************************************************
+![FDM@CAU](/FDM_CAU.png)
 
+********************************************************************************
 
-Vorstellung der CAU, was machen wir im RDM?
+{{2-3}}
+********************************************************************************
+![OpenData@CAU](/Opendata_CAU.png)
 
-Angebot: Impulsvorträge zu OS
+********************************************************************************
 
-Open Access - vortrag
+{{3}}
+********************************************************************************
+![MACAU](/Macau.png)
 
-UB: Open Acces
-
-RZ: Open Data (Torge: Open Data Landesregierung)
+********************************************************************************
 
 
 ### Open Science Coffee Lectures
