@@ -33,6 +33,8 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
+<div style="page-break-after: always;"></div>
+
 ## Was bedeutet Open Science?
 
 
@@ -40,9 +42,8 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 ********************************************************************************
 > Aufgabe:
 >
-> Überlegen Sie, was Sie unter Open Science verstehen. Schreibe es in einen Block oder auf ein Blatt Papier.
->
-> Sie haben 1 Minute Zeit.
+> Was bedeutet Open Science? Lassen Sie uns sammeln, welche Inhaltsaspekte dazu gehören.
+
 
 -----
 
@@ -85,7 +86,6 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 {{5-6}}
 ********************************************************************************
 
-"A key element of open science is to claim for openness of digital research and teaching. This means that research results, research data, research methods and procedures as well as course and teaching content, software and tools are available free of charge and can be reused." 
 "Ein zentrales Element von Open Science ist die Forderung nach Offenheit der digitalen Forschung und Lehre. Das bedeutet, dass Forschungsergebnisse, Forschungsdaten, Forschungsmethoden und -verfahren sowie Lehr- und Lerninhalte, Software und Werkzeuge kostenlos zur Verfügung stehen und nachgenutzt werden können"
 
 (Kunst, Sabine & Degkwitz, Andreas. (2019). Open Science - the new paradigm for research and education?. 10.18452/19871.)
@@ -116,7 +116,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 ********************************************************************************
 >Aufgabe: 
 >
->Prüfen Sie, welche der in den Definitionen genannten Aspekte Sie auch selbst aufgeschrieben haben. Haben Sie noch weitere Elemente gefunden, die zu Open Science gehören?
+>Prüfen Sie, an welche der in den Definitionen genannten Aspekte Sie selbst auch gedacht haben. Haben Sie noch weitere Elemente gefunden, die zu Open Science gehören?
 
 -----
 
@@ -150,20 +150,31 @@ Digitale Ressourcen können zum Beispiel sein:
 * Dateien
 * Digitale Objekte
 
-![PID](/PID.png) 
+![PID](/PID.png)<!--  width="150px" align="right"
+-->
+
 
 ********************************************************************************
 
 ### Digital Object Identifier (DOI®)
 
 -----
-![DOI](/DOI_logo.svg.png)
+
+{{1-4}}
+********************************************************************************
+
+![DOI](/DOI_logo.svg.png)<!--  width="150px" align="right"
+-->
+
 (Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
  shortDOI® are trademarks of the DOI Foundation.)
 
 -----
 
-{{1-3}}
+********************************************************************************
+
+
+{{2-4}}
 ********************************************************************************
 >"A DOI is a digital identifier of an object, any object — physical, digital, or abstract. DOIs solve a common problem: keeping track of things. Things can be matter, material, content, or activities.
 >
@@ -177,7 +188,7 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
-{{2-3}}
+{{3-4}}
 ********************************************************************************
 >"DOIs are persistent identifiers to uniquely and permanently identify physical, digital and abstract objects following international standards (ISO 26324)." 
 >
@@ -187,13 +198,13 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
-{{3-4}}
+{{4-5}}
 ********************************************************************************
 ![DOI](/DOI_1.png)
 
 ********************************************************************************
 
-{{4-5}}
+{{5-6}}
 ********************************************************************************
 ![DOI](/DOI_2.png)
 
@@ -221,7 +232,7 @@ Digitale Ressourcen können zum Beispiel sein:
 ********************************************************************************
 
 
-{{3}}
+{{3-4}}
 ********************************************************************************
 **Was ist eine ORCID?**
 
@@ -355,6 +366,20 @@ Denken Sie an folgendes:
 | 2025-04-10     |   Reproduzierbare Forschung & Open Science   | Dr. Guido Scherp |
 
 
+## Zusammenfassung
+
+> Open Science umfasst verschiedenste Aspekte der Wissenschaft.
+> 
+> Open Access beschreibt den Zugang zu (meistens) textgebundenen Werken.
+> 
+> Open Data bezieht sich (meistens) auf Forschungsdaten, Mediendaten und weitere.
+> 
+> Open Peer-Review regelt die Überprüfung von Artikeln vor / zur Veröffentlichung.
+> 
+> Persistent Identifier helfen dabei, Daten/Dateien und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden.
+> 
+> Citizen Science bezieht Bürger:innen in Forschung aktiv mit ein.
+
 
 ## Discussion
 
@@ -380,54 +405,7 @@ Was sind Ihre Erfahrungen mit Open Science?
 -----
 
 
+## Thank you
 
+Thank you for participating.
 
-
-
-
-
-
-
-## Fragen, die das Thema Open Science berühren:
-
------
-
-* In what format should I save videos for long-term archiving?
-
-* Where can I store my sensitive data?
-
-* How do I make my data anonymous?
-
-* Am I allowed to put data from Facebook, I use in a study, in a repository open access?
-
-* What happens to my data when I leave the university?
-
-* How can I share large amounts of data with others during the project?
-
-* How can retrieve my data?
-
-* Part of the data collected was not used in the publication(s). Do I still have to share this data even if it’s not connected to any publication?
-
------
-
-
-
-
-{{2}}
-********************************************************************************
-**Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.**
-
->* Open Access beschreibt den Zugang zu (meistens) textbasierten Werken.
->
->* Open Data bezieht sich (meistens) auf Forschungsdaten, Mediendaten und andere. 
->
->* Open Peer Review regelt die Begutachtung von Artikeln vor / zur Veröffentlichung.
->
->* Open Source und Open Hardware befassen sich mit der Veröffentlichung von Software und Hardware.
->
->* Citizen Science bindet Bürger:innen aktiv in die Forschung ein.
-
-**All diese Aspekte können als Teil von Open Science gesehen werden**
-
-
-********************************************************************************
