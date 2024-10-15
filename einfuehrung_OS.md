@@ -29,9 +29,6 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 > following link/badge:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/OS_CAU/main/einfuehrung_OS.md#1)
->
-
------
 
 <div style="page-break-after: always;"></div>
 
