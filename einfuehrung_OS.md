@@ -353,6 +353,9 @@ Denken Sie an folgendes:
 
 ### Open Science Coffee Lectures
 
+{{1-2}}
+********************************************************************************
+
 | Wann | Was | Wer |
 | -------- | :------: |:------: |
 | 2024-11-21     |   Open Data SH & opendata@uni-kiel   | Dr. Jesper Zedlitz, Ove Sörensen, Thorge Petersen |
@@ -361,6 +364,15 @@ Denken Sie an folgendes:
 | 2025-02-20     |   Open Access an der CAU   | Dr. Kai Lohsträter |
 | 2025-03-20     |   Open Educational Ressources (OER)   | Leon Marks |
 | 2025-04-10     |   Reproduzierbare Forschung & Open Science   | Dr. Guido Scherp |
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+![Open Science](/UNESCO_OS.jpg)
+
+********************************************************************************
 
 
 ## Zusammenfassung
