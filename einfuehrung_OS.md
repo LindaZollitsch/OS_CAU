@@ -103,10 +103,12 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 ![example](/)
 
 Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
+
+Leitlinie 13: herstellung von öffentlichem Zugang zu Forschungsergebnissen
 ********************************************************************************
 
 
-{{4}}
+{{4-5}}
 ********************************************************************************
 
 ![example](/)
@@ -177,13 +179,10 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 
 {{2-4}}
 ********************************************************************************
->"A DOI is a digital identifier of an object, any object — physical, digital, or abstract. DOIs solve a common problem: keeping track of things. Things can be matter, material, content, or activities.
+
+>"DOIs are persistent identifiers to uniquely and permanently identify physical, digital and abstract objects following international standards (ISO 26324)." 
 >
->A DOI is a unique number made up of a prefix and a suffix separated by a forward slash. This is an example of one: 10.1000/182. It is resolvable using our proxy server by displaying it as a link: https://doi.org/10.1000/182.
->
->Designed to be used by humans as well as machines, DOIs identify objects persistently. They allow things to be uniquely identified and accessed reliably. You know what you have, where it is, and others can track it too." 
->
->(https://www.doi.org/the-identifier/what-is-a-doi/)
+>(https://zenodo.org/record/8178870)
 
 -----
 
@@ -191,9 +190,14 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 
 {{3-4}}
 ********************************************************************************
->"DOIs are persistent identifiers to uniquely and permanently identify physical, digital and abstract objects following international standards (ISO 26324)." 
->
->(https://zenodo.org/record/8178870)
+
+* eine digitale Kennung eines Objekts
+
+* eine eindeutige Nummer, die aus einem Präfix und einem Suffix besteht, die durch einen Schrägstrich getrennt sind. Zum Beispiel: 10.1000/182.
+
+* dauerhafte, eindeutige Identifizierung von Objekten für die Verwendung durch Menschen und Maschinen
+
+(https://www.doi.org/the-identifier/what-is-a-doi/)
 
 -----
 
@@ -263,7 +267,7 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 
 -----
 
-* hilft, Objekte oder Personen leichter zu identifizieren
+* hilft, Objekte, Personen oder Institutionen leichter zu identifizieren
 
 * maschinenlesbar
 
@@ -285,15 +289,35 @@ Denken Sie an folgendes:
 
 -----
 
+{{1}}
+********************************************************************************
 * Sie möchten Ihre eigenen Daten einige Jahre später wieder verwenden
 
-* Sie möchten einen Artikel schreiben und jemanden zitieren /  die Daten von jemandem verwenden
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+* Sie möchten einen Artikel schreiben und jemanden zitieren / die Daten von jemandem verwenden
+
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
 
 * Sie möchten wissen, welche anderen Artikel / Daten eine Person veröffentlicht hat
 
-* Sie möchten einen Artikel / Daten veröffentlichen und sicherstellen, dass Sie zitiert werden
 
-------
+********************************************************************************
+
+{{4}}
+********************************************************************************
+
+* Sie möchten Daten veröffentlichen und sicherstellen, dass Sie zitiert werden, wenn andere die Daten nutzen
+
+********************************************************************************
+
 
 ## Vorteile und Hinderungsgründe von Open Science
 
@@ -355,7 +379,7 @@ Denken Sie an folgendes:
 
 ### Open Science Coffee Lectures
 
-{{1-2}}
+{{1}}
 ********************************************************************************
 
 | Wann | Was | Wer |
@@ -384,9 +408,9 @@ Denken Sie an folgendes:
 
 Open Science umfasst verschiedenste Aspekte der Wissenschaft.
 
-Verschiedene Richtlinien beinhalten bereits Open Science Anforderungen.
+Verschiedene Richtlinien beinhalten bereits Open Science Anforderungen an die Wissenschaft.
 
-Persistent Identifier helfen dabei, Daten/Dateien und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden und unterstützen Open Science damit.
+Persistent Identifier helfen dabei, Objekte und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden und unterstützen Open Science damit.
 
 Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizenzen der Grad der Offenheit festgelegt werden kann.
 
@@ -401,7 +425,7 @@ Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizen
 
 ********************************************************************************
 
-## Discussion
+## Diskussion
 
 -----
 {{1}}
@@ -425,5 +449,5 @@ Was sind Ihre Erfahrungen mit Open Science?
 
 ## Thank you
 
-Thank you for participating.
+Danke für das Interesse.
 
