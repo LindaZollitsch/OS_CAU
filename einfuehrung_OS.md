@@ -100,7 +100,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 {{3-4}}
 ********************************************************************************
 
-![example](/)
+![example](/DFG.png)
 
 Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
 
@@ -111,7 +111,7 @@ Leitlinie 13: herstellung von öffentlichem Zugang zu Forschungsergebnissen
 {{4-5}}
 ********************************************************************************
 
-![example](/)
+![example](/Leitlinie_OA_CAU.png)
 
 Leitlinien zur Förderung von Open Access an der CAU
 ********************************************************************************
@@ -119,7 +119,7 @@ Leitlinien zur Förderung von Open Access an der CAU
 {{5}}
 ********************************************************************************
 
-![example](/)
+![example](/Richtlinien_GWP_CAU.png)
 
 Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 01.06.2022)
 ********************************************************************************
@@ -373,7 +373,7 @@ Denken Sie an folgendes:
 
 {{4}}
 ********************************************************************************
-![FIS](/)
+![FIS](/FIS_CAU.png)
 
 ********************************************************************************
 
