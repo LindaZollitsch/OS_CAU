@@ -99,29 +99,29 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{3-4}}
 ********************************************************************************
+Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
 
 ![example](/DFG.png)
 
-Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
-
-Leitlinie 13: herstellung von öffentlichem Zugang zu Forschungsergebnissen
+Leitlinie 13: Herstellung von öffentlichem Zugang zu Forschungsergebnissen
 ********************************************************************************
 
 
 {{4-5}}
 ********************************************************************************
+Leitlinien zur Förderung von Open Access an der CAU
 
 ![example](/Leitlinie_OA_CAU.png)
 
-Leitlinien zur Förderung von Open Access an der CAU
 ********************************************************************************
 
 {{5}}
 ********************************************************************************
+Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 01.06.2022)
 
 ![example](/Richtlinien_GWP_CAU.png)
 
-Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 01.06.2022)
+
 ********************************************************************************
 
 
@@ -191,11 +191,13 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 {{3-4}}
 ********************************************************************************
 
-* eine digitale Kennung eines Objekts
+DOIs sind:
+
+* die digitale Kennung eines Objekts
 
 * eine eindeutige Nummer, die aus einem Präfix und einem Suffix besteht, die durch einen Schrägstrich getrennt sind. Zum Beispiel: 10.1000/182.
 
-* dauerhafte, eindeutige Identifizierung von Objekten für die Verwendung durch Menschen und Maschinen
+* eine dauerhafte, eindeutige Identifizierung von Objekten für die Verwendung durch Menschen und Maschinen
 
 (https://www.doi.org/the-identifier/what-is-a-doi/)
 
@@ -222,7 +224,8 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 {{1-2}}
 ********************************************************************************
 
-![ORCID](/ORCID_logo.webp)
+![ORCID](/)<!--  width="150px" align="right"
+-->
 
 (Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
  https://doi.org/10.23640/07243.5008697.v4. Under CC0 License)
@@ -235,11 +238,13 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 **Was ist eine ORCID?**
 
 
-* eine offene Forscher- und Mitwirkenden-ID
-* eine eindeutige, dauerhafte Kennung, die Forschenden kostenlos zur Verfügung steht
-* offen, transparent, nicht proprietär
+eine offene Forscher- und Mitwirkenden-ID
 
-------
+eine eindeutige, dauerhafte Kennung, die Forschenden kostenlos zur Verfügung steht
+
+offen, transparent, nicht proprietär
+
+-----
 
 > * 16-stellige Nummer und der zugehörige Datensatz, der automatische Verknüpfungen zur Forschung speichert und die Forschung mit Ihnen verknüpft
 >
@@ -252,8 +257,6 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 
 (info.orcid.org, letzter Zugriff: 17.08.2023)
 
------
-
 ********************************************************************************
 
 {{3}}
@@ -262,6 +265,7 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 
 ![ORCID](/Orcid_record.png)
 
+********************************************************************************
 
 ## Vorteile von Persistent Identifiers
 
