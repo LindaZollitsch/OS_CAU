@@ -7,9 +7,9 @@ icon: Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 version:  0.0.1
 
-language: en
+language: de
 
-narrator: english Female
+narrator: deutsch Female
 
 comment:  Open Science, Open Data, Open Access
 
@@ -34,25 +34,13 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 ## Was bedeutet Open Science?
 
-
-{{1-2}}
-********************************************************************************
-> Aufgabe:
->
-> Was bedeutet Open Science? Lassen Sie uns sammeln, welche Inhaltsaspekte dazu gehören.
-
-
------
-
-********************************************************************************
-
-{{2-4}}
+{{1-3}}
 ********************************************************************************
 Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{3-4}}
+{{2-3}}
 ********************************************************************************
 ![Bild](/UNESCO_OS.jpg) 
 
@@ -60,7 +48,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{4-6}}
+{{3-4}}
 ********************************************************************************
 >"Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 >
@@ -72,7 +60,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 >
 >* Reproduzierbarkeit
 >
->* RWiederverwendbarkeit
+>* Wiederverwendbarkeit
 >
 >* Offene Kommunikation" 
 >
@@ -80,7 +68,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{5-6}}
+{{4}}
 ********************************************************************************
 
 "Ein zentrales Element von Open Science ist die Forderung nach Offenheit der digitalen Forschung und Lehre. Das bedeutet, dass Forschungsergebnisse, Forschungsdaten, Forschungsmethoden und -verfahren sowie Lehr- und Lerninhalte, Software und Werkzeuge kostenlos zur Verfügung stehen und nachgenutzt werden können"
@@ -109,15 +97,31 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 ********************************************************************************
 
-{{3}}
+{{3-4}}
 ********************************************************************************
->Aufgabe: 
->
->Prüfen Sie, an welche der in den Definitionen genannten Aspekte Sie selbst auch gedacht haben. Haben Sie noch weitere Elemente gefunden, die zu Open Science gehören?
 
------
+![example](/)
 
+Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
 ********************************************************************************
+
+
+{{4}}
+********************************************************************************
+
+![example](/)
+
+Leitlinien zur Förderung von Open Access an der CAU
+********************************************************************************
+
+{{5}}
+********************************************************************************
+
+![example](/)
+
+Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 01.06.2022)
+********************************************************************************
+
 
 ## Praktische Anwendung von Open Science: Persistent Identifiers (PIDs)
 
@@ -125,9 +129,9 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{1}}
 ********************************************************************************
-"A persistent identifier (PI or PID) is a long-lasting reference to a document, file, web page, or other digital object. Most PIDs have a unique identifier which is linked to the current address of the metadata or content. Unlike URLs, PIDs are often provided by services that allow you to update the location of the object so that the identifierconsistently points to the right place without breaking."
+"Ein Persistent Identifier ist definiert als ein dauerhafter (persistenter), digitaler Identifikator, bestehend aus Ziffern und/oder alphanumerischen Zeichen, welcher einem Datensatz (oder einem anderen digitalen Objekt) zugeordnet wird und direkt auf diesen verweist."
 
-(https://guides.lib.uw.edu/research/PID#:~:text=A%20persistent%20identifier%20(PI%20or,of%20the%20metadata%20or%20content.)
+(https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
 
 ********************************************************************************
 
@@ -141,11 +145,11 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{3}}
 ********************************************************************************
-Digitale Ressourcen können zum Beispiel sein:
+Persistente Identifikatoren gibt es (unter anderem) für:
 
-* Unterlagen
-* Dateien
-* Digitale Objekte
+* Daten und digitale Objekte
+* Personen
+* Institutionen
 
 ![PID](/PID.png)<!--  width="150px" align="right"
 -->
@@ -211,16 +215,9 @@ Digitale Ressourcen können zum Beispiel sein:
 
 -----
 
-{{1-3}}
-********************************************************************************
-* Haben Sie bereits von ORCID gehört?
-
-* Haben Sie eine ORCID?
-
+{{1-2}}
 ********************************************************************************
 
-{{2-3}}
-********************************************************************************
 ![ORCID](/ORCID_logo.webp)
 
 (Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
@@ -229,7 +226,7 @@ Digitale Ressourcen können zum Beispiel sein:
 ********************************************************************************
 
 
-{{3-4}}
+{{2-3}}
 ********************************************************************************
 **Was ist eine ORCID?**
 
@@ -255,7 +252,7 @@ Digitale Ressourcen können zum Beispiel sein:
 
 ********************************************************************************
 
-{{4}}
+{{3}}
 ********************************************************************************
 **Wie sieht ein ORCID-Eintrag aus?**
 
@@ -344,12 +341,17 @@ Denken Sie an folgendes:
 
 ********************************************************************************
 
-{{3}}
+{{3-4}}
 ********************************************************************************
 ![MACAU](/Macau.png)
 
 ********************************************************************************
 
+{{4}}
+********************************************************************************
+![FIS](/)
+
+********************************************************************************
 
 ### Open Science Coffee Lectures
 
@@ -377,18 +379,27 @@ Denken Sie an folgendes:
 
 ## Zusammenfassung
 
-> Open Science umfasst verschiedenste Aspekte der Wissenschaft.
-> 
-> Open Access beschreibt den Zugang zu (meistens) textgebundenen Werken.
-> 
-> Open Data bezieht sich (meistens) auf Forschungsdaten, Mediendaten und weitere.
-> 
+{{1-2}}
+********************************************************************************
+
+Open Science umfasst verschiedenste Aspekte der Wissenschaft.
+
+Verschiedene Richtlinien beinhalten bereits Open Science Anforderungen.
+
+Persistent Identifier helfen dabei, Daten/Dateien und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden und unterstützen Open Science damit.
+
+Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizenzen der Grad der Offenheit festgelegt werden kann.
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
 > Open Peer-Review regelt die Überprüfung von Artikeln vor / zur Veröffentlichung.
 > 
-> Persistent Identifier helfen dabei, Daten/Dateien und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden.
-> 
-> Citizen Science bezieht Bürger:innen in Forschung aktiv mit ein.
+> Citizen Science bezieht Bürger:innen in Forschung aktiv mit ein und öffnet die Wissenschaft in die Gesellschaft.
 
+********************************************************************************
 
 ## Discussion
 
@@ -403,8 +414,6 @@ Was sind Ihre Erfahrungen mit Open Science?
 ********************************************************************************
 {{2}}
 ********************************************************************************
-
-
 
 * Was sind die Vorteile von Open Cience für Sie als Wissenschaftler:innen?
 
