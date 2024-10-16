@@ -224,7 +224,7 @@ DOIs sind:
 {{1-2}}
 ********************************************************************************
 
-![ORCID](/)<!--  width="150px" align="right"
+![ORCID](/ORCID-iD_icon-128x128.png)<!--  width="150px" align="right"
 -->
 
 (Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
