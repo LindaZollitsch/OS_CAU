@@ -361,6 +361,8 @@ Denken Sie an folgendes:
 ********************************************************************************
 ![FDM@CAU](/FDM_CAU.png)
 
+<iframe src="https://www.datamanagement.uni-kiel.de/de/aktivitaeten/open-science" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 ********************************************************************************
 
 {{2-3}}
