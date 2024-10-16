@@ -359,7 +359,9 @@ Denken Sie an folgendes:
 
 {{1-2}}
 ********************************************************************************
-![FDM@CAU](/FDM_CAU.png)
+FDM at CAU
+
+https://www.datamanagement.uni-kiel.de/de/aktivitaeten/open-science
 
 <iframe src="https://www.datamanagement.uni-kiel.de/de/aktivitaeten/open-science" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -367,19 +369,31 @@ Denken Sie an folgendes:
 
 {{2-3}}
 ********************************************************************************
-![OpenData@CAU](/Opendata_CAU.png)
+Open Data at CAU
+
+https://opendata.uni-kiel.de/content/index.xml
+
+<iframe src="https://opendata.uni-kiel.de/content/index.xml" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
 {{3-4}}
 ********************************************************************************
-![MACAU](/Macau.png)
+MACAU
+
+https://macau.uni-kiel.de/content/index.xml
+
+<iframe src="https://macau.uni-kiel.de/content/index.xml" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
 {{4}}
 ********************************************************************************
 ![FIS](/FIS_CAU.png)
+
+https://www.fis.uni-kiel.de/de
+
+<iframe src="https://www.fis.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
