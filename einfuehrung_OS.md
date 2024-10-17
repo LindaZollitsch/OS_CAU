@@ -71,13 +71,13 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 >
 <p style="color:#9a047f">
 
-* Transparenz
+Transparenz
 
-* Reproduzierbarkeit
+Reproduzierbarkeit
 
-* Wiederverwendbarkeit
+Wiederverwendbarkeit
 
-* Offene Kommunikation</p>
+Offene Kommunikation</p>
 
 >(https://ag-openscience.de/open-science/)
 
