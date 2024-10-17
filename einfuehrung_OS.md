@@ -33,7 +33,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 >**Lizenzhinweis**
 >
 ><div style="float:left; width:50px;">
-  <img src="/">
+  <img src="/ccby.png">
     <sub style="text-align: right;"></sub>
 </div>
 >Dieses Werk ist mit Ausnahme verwendeten Materials von anderen Urheberrechtsinhabern unter einer [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) lizenziert.
