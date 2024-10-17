@@ -94,7 +94,6 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 {{2-3}}
 ********************************************************************************
 ![example](/ecoc_1.png)
-(ALLEA (2023): The European Code of Conduct for Research Integrity, p. 7)
 
 ![example](/ecoc_2.png)
 (ALLEA (2023): The European Code of Conduct for Research Integrity, p. 7)
@@ -173,7 +172,7 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 ![DOI](/DOI_logo.svg.png)<!--  width="150px" align="right"
 -->
 
->>(Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
+(Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
  shortDOI® are trademarks of the DOI Foundation.)
 
 -----
@@ -226,7 +225,7 @@ DOIs sind:
 ![ORCID](/ORCID-iD_icon-128x128.png)<!--  width="150px" align="right"
 -->
 
->>Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
+Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
  https://doi.org/10.23640/07243.5008697.v4. Under CC0 License
 
 ********************************************************************************
