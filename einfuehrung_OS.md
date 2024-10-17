@@ -431,7 +431,7 @@ https://www.fis.uni-kiel.de/de
 {{1-2}}
 ********************************************************************************
 
-![Open Science](\UV_Open-Science-Checklist_Infographic_EN_v1.png)
+![Open Science](/UV_Open-Science-Checklist_Infographic_EN_v1.png)
 
 Checklist from Amsterdam University of Applied Sciences
 
