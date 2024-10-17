@@ -106,7 +106,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 ![example](/ecoc_1.png)
 
 ![example](/ecoc_2.png)
-(ALLEA (2023): The European Code of Conduct for Research Integrity, p. 7)
+(ALLEA (2023), S. 7)
 
 ********************************************************************************
 
@@ -116,7 +116,6 @@ Leitlinien zur Sicherung guter wissenschaftlicher Praxis der DFG (Stand 2022)
 
 ![example](/DFG.png)
 
-Leitlinie 13: Herstellung von öffentlichem Zugang zu Forschungsergebnissen
 ********************************************************************************
 
 
@@ -144,14 +143,14 @@ Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 0
 
 {{1}}
 ********************************************************************************
+![PID](/PID.png)<!--  width="150px" align="right"
+-->
+
 Persistente Identifikatoren gibt es (unter anderem) für:
 
 * Daten und digitale Objekte
 * Personen
 * Institutionen
-
-![PID](/PID.png)<!--  width="150px" align="right"
--->
 
 ********************************************************************************
 
@@ -256,12 +255,9 @@ offen, transparent, nicht proprietär
 
 > * 16-stellige Nummer und der zugehörige Datensatz, der automatische Verknüpfungen zur Forschung speichert und die Forschung mit Ihnen verknüpft
 >
-> * Macht Forschende eindeutig und verbindet Personen mit ihren Forschungsaktivitäten
+> * Macht Forschende eindeutig identifizierbar und verbindet Personen mit ihren Forschungsaktivitäten
 >
-> * Dient als Informationsplattform, die es Ihren Autor:innen und Gutachter:innen ermöglicht, sich zuverlässig mit Ihren Beiträgen zu verbinden
->
-> * Entdecken Sie Informationen über Personen, mit denen Sie zusammenarbeiten
-
+> * Dient als Informationsplattform, die den Autor:innen und Gutachter:innen ermöglicht, sich zuverlässig mit Ihren Beiträgen zu verbinden
 
 (info.orcid.org, letzter Zugriff: 17.08.2023)
 
@@ -387,6 +383,16 @@ https://opendata.uni-kiel.de/content/index.xml
 
 {{3-4}}
 ********************************************************************************
+Open Access
+
+https://www.ub.uni-kiel.de/de/publizieren
+
+<iframe src="https://www.ub.uni-kiel.de/de/publizieren" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+********************************************************************************
+
+{{4-5}}
+********************************************************************************
 MACAU
 
 https://macau.uni-kiel.de/content/index.xml
@@ -395,7 +401,7 @@ https://macau.uni-kiel.de/content/index.xml
 
 ********************************************************************************
 
-{{4}}
+{{5}}
 ********************************************************************************
 FIS
 
@@ -479,9 +485,9 @@ Was sind Ihre Erfahrungen mit Open Science?
 {{2}}
 ********************************************************************************
 
-* Was sind die Vorteile von Open Cience für Sie als Wissenschaftler:innen?
+Was sind die Vorteile von Open Cience für Sie als Wissenschaftler:innen?
 
-* Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
+Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
 
 ********************************************************************************
 
