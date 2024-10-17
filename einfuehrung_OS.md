@@ -53,7 +53,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 >Was: Unter dem Begriff Open Science versteht man Strategien und Verfahren, die darauf abzielen, alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen.
 >
->Warum: Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
+>Wieso: Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
 >
 > Ziel: Die Qualität der Forschung verbessern und die Forschungsförderung effizienter einsetzen. Open Science ist damit ein wichtiger Baustein, um gute wissenschaftliche Praxis zu sichern. Darüber hinaus soll der Wissenstransfer in Gesellschaft, Wirtschaft und Politik durch Offenheit und Transparenz verbessert werden.
 >
@@ -94,10 +94,10 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 {{2-3}}
 ********************************************************************************
 ![example](/ecoc_1.png)
-(ALEA (2023): The European Code of Conduct for Research Integrity, p. 7)
+(ALLEA (2023): The European Code of Conduct for Research Integrity, p. 7)
 
 ![example](/ecoc_2.png)
-(ALEA (2023): The European Code of Conduct for Research Integrity, p. 7)
+(ALLEA (2023): The European Code of Conduct for Research Integrity, p. 7)
 
 ********************************************************************************
 
