@@ -50,11 +50,14 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 
 {{3-4}}
 ********************************************************************************
->"Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
+
+>Was: Unter dem Begriff Open Science versteht man Strategien und Verfahren, die darauf abzielen, alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen.
 >
->Das Ziel ist die Qualität der Forschung zu verbessern und Forschungsförderung effizienter einzusetzen. Open Science ist somit ein wichtiger Bestandteil der Sicherung guter wissenschaftlicher Praxis. Zusätzlich soll durch Öffnung und Transparenz der Wissenstransfer in Gesellschaft, Wirtschaft und Politik verbessert werden
+>Warum: Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
 >
->Open Science beruht dabei auf vier Grundprinzipien:
+> Ziel: Die Qualität der Forschung verbessern und die Forschungsförderung effizienter einsetzen. Open Science ist damit ein wichtiger Baustein, um gute wissenschaftliche Praxis zu sichern. Darüber hinaus soll der Wissenstransfer in Gesellschaft, Wirtschaft und Politik durch Offenheit und Transparenz verbessert werden.
+>
+>Open Science basiert auf vier Grundprinzipien:
 >
 >* Transparenz
 >
@@ -62,9 +65,10 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 >
 >* Wiederverwendbarkeit
 >
->* Offene Kommunikation" 
+>* Offene Kommunikation
 >
 >(https://ag-openscience.de/open-science/)
+
 
 ********************************************************************************
 
@@ -131,22 +135,6 @@ Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis (Fassung vom 0
 
 {{1}}
 ********************************************************************************
-"Ein Persistent Identifier ist definiert als ein dauerhafter (persistenter), digitaler Identifikator, bestehend aus Ziffern und/oder alphanumerischen Zeichen, welcher einem Datensatz (oder einem anderen digitalen Objekt) zugeordnet wird und direkt auf diesen verweist."
-
-(https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
->"A persistent identifier (PID) is a long-lasting reference to a digital resource and provides the information required to reliably identify, verify and locate your research data eliminating many misunderstandings. A PID may also be connected to a set of metadata which describes a digital resource." 
->
->(https://howtofair.dk/how-to-fair/persistent-identifiers/)
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
 Persistente Identifikatoren gibt es (unter anderem) für:
 
 * Daten und digitale Objekte
@@ -156,8 +144,24 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 ![PID](/PID.png)<!--  width="150px" align="right"
 -->
 
+********************************************************************************
+
+{{2}}
+********************************************************************************
+"Ein Persistent Identifier ist definiert als ein dauerhafter (persistenter), digitaler Identifikator, bestehend aus Ziffern und/oder alphanumerischen Zeichen, welcher einem Datensatz (oder einem anderen digitalen Objekt) zugeordnet wird und direkt auf diesen verweist."
+
+(https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
 
 ********************************************************************************
+
+{{3}}
+********************************************************************************
+>"A persistent identifier (PID) is a long-lasting reference to a digital resource and provides the information required to reliably identify, verify and locate your research data eliminating many misunderstandings. A PID may also be connected to a set of metadata which describes a digital resource." 
+>
+>(https://howtofair.dk/how-to-fair/persistent-identifiers/)
+
+********************************************************************************
+
 
 ### Digital Object Identifier (DOI®)
 
@@ -373,7 +377,7 @@ Open Data at CAU
 
 https://opendata.uni-kiel.de/content/index.xml
 
-<iframe src="https://opendata.uni-kiel.de/content/index.xml" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+![Open Data CAU](/Opendata_CAU.png)
 
 ********************************************************************************
 
@@ -389,7 +393,7 @@ https://macau.uni-kiel.de/content/index.xml
 
 {{4}}
 ********************************************************************************
-![FIS](/FIS_CAU.png)
+FIS
 
 https://www.fis.uni-kiel.de/de
 
@@ -402,14 +406,14 @@ https://www.fis.uni-kiel.de/de
 {{1}}
 ********************************************************************************
 
-| Wann | Was | Wer |
-| -------- | :------: |:------: |
-| 2024-11-21     |   Open Data SH & opendata@uni-kiel   | Dr. Jesper Zedlitz, Ove Sörensen, Thorge Petersen |
-| 2024-12-12     |   FAIR vs. Open Research Data   | Thilo Paul-Stüve |
-| 2025-01-16     |   Erfolg dank Open Science? Wege in eine offene Forschungspraxis   | Dr. Ronny Röwert |
-| 2025-02-20     |   Open Access an der CAU   | Dr. Kai Lohsträter |
-| 2025-03-20     |   Open Educational Ressources (OER)   | Leon Marks |
-| 2025-04-10     |   Reproduzierbare Forschung & Open Science   | Dr. Guido Scherp |
+| Wann           | Was      | Wer     |
+| -------------- | :------: |:------: |
+| 21. November 2024     |   Open Data SH & opendata@uni-kiel   | Dr. Jesper Zedlitz, Ove Sörensen, Thorge Petersen |
+| 12. Dezember 2024     |   FAIR vs. Open Research Data   | Thilo Paul-Stüve |
+| 16. Januar 2025     |   Erfolg dank Open Science? Wege in eine offene Forschungspraxis   | Dr. Ronny Röwert |
+| 20. Februar 2025     |   Open Access an der CAU   | Dr. Kai Lohsträter |
+| 20. März 2025     |   Open Educational Ressources (OER)   | Leon Marks |
+| 10. April 2025     |   Reproduzierbare Forschung & Open Science   | Dr. Guido Scherp |
 
 ********************************************************************************
 
@@ -423,7 +427,17 @@ https://www.fis.uni-kiel.de/de
 
 ## Zusammenfassung
 
+
 {{1-2}}
+********************************************************************************
+
+![Open Science](\UV_Open-Science-Checklist_Infographic_EN_v1.png)
+
+Checklist from Amsterdam University of Applied Sciences
+
+********************************************************************************
+
+{{2-3}}
 ********************************************************************************
 
 Open Science umfasst verschiedenste Aspekte der Wissenschaft.
@@ -436,7 +450,7 @@ Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizen
 
 ********************************************************************************
 
-{{2}}
+{{3}}
 ********************************************************************************
 
 > Open Peer-Review regelt die Überprüfung von Artikeln vor / zur Veröffentlichung.
@@ -448,6 +462,7 @@ Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizen
 ## Diskussion
 
 -----
+
 {{1}}
 ********************************************************************************
 
@@ -456,6 +471,7 @@ Wo sind Sie schon mit Open Science in Kontakt gekommen?
 Was sind Ihre Erfahrungen mit Open Science?
 
 ********************************************************************************
+
 {{2}}
 ********************************************************************************
 
@@ -463,9 +479,7 @@ Was sind Ihre Erfahrungen mit Open Science?
 
 * Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
 
-
------
-
+********************************************************************************
 
 ## Thank you
 
