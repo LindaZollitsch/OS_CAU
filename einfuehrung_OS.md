@@ -173,7 +173,7 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 ![DOI](/DOI_logo.svg.png)<!--  width="150px" align="right"
 -->
 
-(Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
+>>(Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and
  shortDOI® are trademarks of the DOI Foundation.)
 
 -----
@@ -209,17 +209,12 @@ DOIs sind:
 
 ********************************************************************************
 
-{{4-5}}
-********************************************************************************
-![DOI](/DOI_1.png)
-
-********************************************************************************
-
-{{5-6}}
+{{4}}
 ********************************************************************************
 ![DOI](/DOI_2.png)
 
 ********************************************************************************
+
 
 ### ORCID
 
@@ -231,8 +226,8 @@ DOIs sind:
 ![ORCID](/ORCID-iD_icon-128x128.png)<!--  width="150px" align="right"
 -->
 
-(Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
- https://doi.org/10.23640/07243.5008697.v4. Under CC0 License)
+>>Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure.
+ https://doi.org/10.23640/07243.5008697.v4. Under CC0 License
 
 ********************************************************************************
 
