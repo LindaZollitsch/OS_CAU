@@ -431,7 +431,7 @@ Checklist from Amsterdam University of Applied Sciences
 
 ********************************************************************************
 
-{{2-3}}
+{{2}}
 ********************************************************************************
 
 Open Science umfasst verschiedenste Aspekte der Wissenschaft.
