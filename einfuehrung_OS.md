@@ -434,22 +434,22 @@ Checklist from Amsterdam University of Applied Sciences
 {{2}}
 ********************************************************************************
 
-Open Science umfasst verschiedenste Aspekte der Wissenschaft.
-
-Verschiedene Richtlinien beinhalten bereits Open Science Anforderungen an die Wissenschaft.
-
-Persistent Identifier helfen dabei, Objekte und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden und unterstützen Open Science damit.
-
-Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizenzen der Grad der Offenheit festgelegt werden kann.
+> Open Science umfasst verschiedenste Aspekte der Wissenschaft.
+>
+> Verschiedene Richtlinien beinhalten bereits Open Science Anforderungen an die Wissenschaft.
+>
+> Persistent Identifier helfen dabei, Objekte und Personen mithilfe einer eindeutigen Kennzeichnung wiederzufinden und unterstützen Open Science damit.
+>
+> Open Access und Open Data sind Publikationsmöglichkeiten, bei denen durch Lizenzen der Grad der Offenheit festgelegt werden kann.
 
 ********************************************************************************
 
 {{3}}
 ********************************************************************************
 
-> Open Peer-Review regelt die Überprüfung von Artikeln vor / zur Veröffentlichung.
-> 
-> Citizen Science bezieht Bürger:innen in Forschung aktiv mit ein und öffnet die Wissenschaft in die Gesellschaft.
+Open Peer-Review regelt die Überprüfung von Artikeln vor / zur Veröffentlichung.
+
+Citizen Science bezieht Bürger:innen in Forschung aktiv mit ein und öffnet die Wissenschaft in die Gesellschaft.
 
 ********************************************************************************
 
