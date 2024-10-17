@@ -271,7 +271,7 @@ offen, transparent, nicht proprietär
 
 ********************************************************************************
 
-## Vorteile von Persistent Identifiers
+### Vorteile von Persistent Identifiers
 
 -----
 
@@ -289,7 +289,7 @@ offen, transparent, nicht proprietär
 
 -----
 
-## Was hat das mit Open Science zu tun?
+### Was hat das mit Open Science zu tun?
 
 -----
 
@@ -491,7 +491,7 @@ Wie kann man andere von einer transparenten Arbeitsweise überzeugen?
 
 ********************************************************************************
 
-## Thank you
+## Vielen Dank
 
 Danke für das Interesse.
 
