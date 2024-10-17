@@ -61,21 +61,21 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 {{3-4}}
 ********************************************************************************
 
-><p style="color:#9a047f">Was:</p> Unter dem Begriff Open Science versteht man Strategien und Verfahren, die darauf abzielen, alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen.
+>**Was:** Unter dem Begriff Open Science versteht man Strategien und Verfahren, die darauf abzielen, alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich, nachvollziehbar und nachnutzbar zu machen.
 >
-><p style="color:#9a047f">Wieso:</p> Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
+>**Wieso:** Um Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen zu eröffnen.
 >
-><p style="color:#9a047f">Ziel:</p> Die Qualität der Forschung verbessern und die Forschungsförderung effizienter einsetzen. Open Science ist damit ein wichtiger Baustein, um gute wissenschaftliche Praxis zu sichern. Darüber hinaus soll der Wissenstransfer in Gesellschaft, Wirtschaft und Politik durch Offenheit und Transparenz verbessert werden.
+>**Ziel:** Die Qualität der Forschung verbessern und die Forschungsförderung effizienter einsetzen. Open Science ist damit ein wichtiger Baustein, um gute wissenschaftliche Praxis zu sichern. Darüber hinaus soll der Wissenstransfer in Gesellschaft, Wirtschaft und Politik durch Offenheit und Transparenz verbessert werden.
 >
 >Open Science basiert auf vier Grundprinzipien:
 >
->* Transparenz
+><p style="color:#9a047f">* Transparenz
 >
 >* Reproduzierbarkeit
 >
 >* Wiederverwendbarkeit
 >
->* Offene Kommunikation
+>* Offene Kommunikation</p>
 >
 >(https://ag-openscience.de/open-science/)
 
