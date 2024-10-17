@@ -70,6 +70,7 @@ Open Science umfasst die unterschiedlichsten Aspekte der Wissenschaft.
 >Open Science basiert auf vier Grundprinzipien:
 >
 <p style="color:#9a047f">
+
 * Transparenz
 
 * Reproduzierbarkeit
